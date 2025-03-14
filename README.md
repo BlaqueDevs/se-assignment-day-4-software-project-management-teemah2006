@@ -106,8 +106,51 @@ Answer                              Some of the benefits of developing a detaile
 Gantt charts provide a graphical timeline of the project, displaying tasks, durations, and dependencies, which enhances understanding and clarity. 
 
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
+
+Answers
+Core Issues the Software Aims to Address:
+Many students struggle with effective study planning especially during exam, leading to last-minute cramming, poor time management, and increased stress. They often don't know how to balance their subjects or focus on their weak areas efficiently.
+
+Significance of These Problems to the Target Audience:
+Students face immense academic pressure, and a lack of structured study planning can negatively impact their performance. Poor time management leads to burnout and reduces productivity, making it harder to retain information and excel in exams.
+
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
+
+Answer
+Clearly defining the problem is crucial in developing a more effective software solution because it ensures that the solution directly addresses the needs of the target users.
+
+For example, in the case of student inefficiency in study planning, identifying the root issues—such as poor time management, last-minute cramming, and difficulty prioritizing subjects—allows the developers to design a solution that specifically tackles these challenges. Instead of creating a generic productivity app, we can build an AI-Based Study Planner that generates personalized schedules, tracks progress, and adjusts study plans based on performance.
+
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
+Software solution without diving into technical details:
+Our AI-Based Study Planner provides a smart solution by generating personalized study schedules. Users input their subjects, exam dates, and available study hours, and the app creates an optimized plan that ensures balanced learning. The software also sends reminders, tracks progress, and adjusts the schedule based on performance, making study planning stress-free and efficient.
+
 ## 11. What are the main features or functionalities that make your software stand out?
+Features of the software include:
+- generation of personalized study schedules
+- ability to adjust study schedule based on performance
+- the software sends reminders at scheduled times
+- AI-generated study recommendations for difficult topics
+  
 ## 12. What data is available regarding the market size and growth potential for your software?
+Market Size & Growth Potential
+  E-Learning & EdTech Industry:
+        The global e-learning market was valued at $399.3 billion in 2022 and is expected to grow at a CAGR of 14% from 2023 to 2032 (Source: Global Market Insights).
+        The demand for AI-driven education tools is increasing as students seek personalized learning solutions.
+
+   Student Demographics & Target Audience:
+        Over 1.5 billion students worldwide are enrolled in educational institutions.
+        A significant percentage of students struggle with time management and seek digital solutions for study planning.
+        University students, high schoolers, and even lifelong learners can benefit from AI-powered study tools.
+        
 ## 13. How can understanding market trends inform your software’s positioning and development?
+ In the case of our AI-Based Study Planner, analyzing market trends helps in the following ways:
+1. Identifying Key Features Based on Demand
+
+    Trends show that students prefer AI-driven, personalized learning experiences.
+    This insight informs our development, ensuring features like automated study schedules, progress tracking, and AI-generated study recommendations are included.
+
+2. Targeting the Right Audience Effectively
+
+    The EdTech market is growing rapidly, with students relying on digital tools for learning.
+    By understanding this, we can position the software as a must-have academic tool for high school and university students.
